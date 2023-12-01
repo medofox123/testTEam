@@ -1,11 +1,11 @@
 command_not_found_handle() {
         /data/data/com.termux/files/usr/libexec/termux/command-not-found "$1"
 }
-PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;93m[DemonHacking]\e[0;31m───[\#]\n|\n\e[0;31m└─[\[\e[31m\]\e[0;35m\W\[\e[31m\]]────►\e[1;92m'
+PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;93m[爪乇ᗪㄖ¿千ㄖ乂\e[0;31m───[\#]\n|\n\e[0;31m└─[\[\e[31m\]\e[0;35m\W\[\e[31m\]]────►\e[1;92m'
 clear
 mpv /$HOME/Voice-logo-dr70/termux.mp3
 clear
-echo -e "Created By \e[5mBlack Demon"
+echo -e "Created By \e[medohackerz"
 echo "----------------------------" | lolcat
 echo -e "\e[1;92m "
 echo "   ⊢□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■■□■□■□■□■□■□■□■□■⊣"
@@ -28,27 +28,27 @@ echo "    MP         ~YMMMba._ YOOOOPVVVVVYOOOOP  _,adMMMMP~        YM "
 echo "    YMb           ~YMMMM\ OOOOI•••••IOOOOO /MMMMP~           dMP "
 echo "      Mb.            YMMMb OOOI,,,,,IOOOO dMMMP            ,dM  "
 echo "       ••                   OObNNNNNdOO                    •• "
-echo "                              ~OOOOO~    SUMAN "
-echo "        o__ __o                                                            "
-echo "       <|     v\                                                           "
-echo "       / \     <\                                                          "
-echo "       \o/       \o     o__  __o   \o__ __o__ __o     o__ __o    \o__ __o  "
-echo "        |         |>   /v      |>   |     |     |>   /v     v\    |     |> "
-echo "       / \       //   />      //   / \   / \   / \  />       <\  / \   / \ "
-echo "       \o/      /     \o    o/     \o/   \o/   \o/  \         /  \o/   \o/ "
-echo "        |      o       v\  /v __o   |     |     |    o       o    |     |  "
-echo "       / \  __/>        <\/> __/>  / \   / \   / \   <\__ __/>   / \   / \ "
+echo "                              ~OOOOO~    medohackers "
+echo "           //\\                //\\            ||=×=×=×===      o__ __o           "
+echo "          //  \\              //  \\           ||                <|     v\           "
+echo "         //    \\            //    \\          ||                / \     <\          "
+echo "        //      \\          //      \\         ||                \o/       \o    o__  __o  "
+echo "       //        \\        //        \\        ||=××=×==××      |         |>   /v      |>  "
+echo "      //          \\      //          \\       ||                / \       //   />      //  " 
+echo "     //            \\    //            \\      ||                \o/      /     \o    o/   "
+echo "    //              \\  //              \\     ||                 |      o       v\  /v  "
+echo "   //                \\//                \\    ||=×==×==××     / \  __/>        <\/>  "
 echo "                                                                           "
 echo "                                                                           "
 echo "                                                                           "
 echo -e "\e[1;92m"
 echo "   ⊢□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■■□■□■□■□■□■□■□■□■□■⊣"
 echo ""
-echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mINSTA   \e[1;91m =  \e[1;97melqnas_daymon"
+echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mINSTA   \e[1;91m =  \e[1;x_mr. fox_x"
 echo "" 
-echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mGithub    \e[1;91m =  \e[1;97m@black-demon-dr7"
+echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mGithub    \e[1;91m =  \e[1;medofox123"
 echo ""
-echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mTelegram  \e[1;91m =  \e[1;97m@BLACK_DEMON_VX"
+echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mTelegram  \e[1;91m =  \e[1;x_mr_fox_x"
 echo ""
 echo ''
 date | lolcat
